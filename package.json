@@ -9,6 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vueuse/components": "^11.0.3",
+    "@vueuse/core": "^11.0.3",
+    "pdf-lib": "^1.17.1",
+    "pdfjs-dist": "^4.6.82",
     "vue": "^3.4.37"
   },
   "devDependencies": {
